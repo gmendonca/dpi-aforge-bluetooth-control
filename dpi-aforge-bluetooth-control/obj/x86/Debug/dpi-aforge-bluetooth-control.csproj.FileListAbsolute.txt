@@ -1,0 +1,10 @@
+D:\Workplace\dpi-aforge-bluetooth-control\dpi-aforge-bluetooth-control\bin\Debug\dpi-aforge-bluetooth-control.exe
+D:\Workplace\dpi-aforge-bluetooth-control\dpi-aforge-bluetooth-control\bin\Debug\dpi-aforge-bluetooth-control.pdb
+D:\Workplace\dpi-aforge-bluetooth-control\dpi-aforge-bluetooth-control\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Workplace\dpi-aforge-bluetooth-control\dpi-aforge-bluetooth-control\obj\x86\Debug\dpi_aforge_bluetooth_control.Properties.Resources.resources
+D:\Workplace\dpi-aforge-bluetooth-control\dpi-aforge-bluetooth-control\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Workplace\dpi-aforge-bluetooth-control\dpi-aforge-bluetooth-control\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Workplace\dpi-aforge-bluetooth-control\dpi-aforge-bluetooth-control\obj\x86\Debug\dpi-aforge-bluetooth-control.exe
+D:\Workplace\dpi-aforge-bluetooth-control\dpi-aforge-bluetooth-control\obj\x86\Debug\dpi-aforge-bluetooth-control.pdb
+D:\Workplace\dpi-aforge-bluetooth-control\dpi-aforge-bluetooth-control\dpi-aforge-bluetooth-control\obj\x86\Debug\dpi-aforge-bluetooth-control.exe
+D:\Workplace\dpi-aforge-bluetooth-control\dpi-aforge-bluetooth-control\dpi-aforge-bluetooth-control\obj\x86\Debug\dpi-aforge-bluetooth-control.pdb
