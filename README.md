@@ -1,6 +1,8 @@
 dpi-aforge-bluetooth-control
 ============================
 
+Youtube video of the project working properly: http://youtu.be/UzTIzX9d7-s
+
 If used remember to give credits to Gustavo Gomes Mendonca.
 
 C# project that controls a prototype via Bluetooth utilizing Digital Image Processing.
